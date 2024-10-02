@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bb5f5d622080446095af01b96d44f3ac/artifacts
+end_time: 1702551724845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb5f5d622080446095af01b96d44f3ac
+run_name: Run Multilayered Perceptron for random state 2
+run_uuid: bb5f5d622080446095af01b96d44f3ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702549327607
+status: 3
+tags: []
+user_id: bruno

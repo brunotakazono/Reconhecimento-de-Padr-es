@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/63cb8f47b7344f5594431d001860455b/artifacts
+deleted_time: 1702541037939
+end_time: 1702540103504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 63cb8f47b7344f5594431d001860455b
+run_name: Run Gaussian Naive Bayes for random state 0
+run_uuid: 63cb8f47b7344f5594431d001860455b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702540014633
+status: 3
+tags: []
+user_id: bruno

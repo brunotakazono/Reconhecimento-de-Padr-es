@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5c503b7fc64840bca2b7c42099f56a1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c503b7fc64840bca2b7c42099f56a1d
+run_name: Run Random Forest for random state 0
+run_uuid: 5c503b7fc64840bca2b7c42099f56a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702541134140
+status: 1
+tags: []
+user_id: bruno

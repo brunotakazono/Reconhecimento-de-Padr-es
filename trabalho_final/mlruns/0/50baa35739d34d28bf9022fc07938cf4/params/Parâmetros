@@ -1,0 +1,1 @@
+classifier__criterion: gini, classifier__max_depth: 8, classifier__max_features: sqrt, classifier__n_estimators: 500, combined_features__rfe__n_features_to_select: 5, combined_features__skb__k: 7

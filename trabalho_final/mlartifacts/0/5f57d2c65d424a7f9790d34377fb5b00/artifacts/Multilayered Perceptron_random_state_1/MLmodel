@@ -1,0 +1,20 @@
+artifact_path: Multilayered Perceptron_random_state_1
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.9.1
+model_size_bytes: 165366
+model_uuid: d9d81be0a23b472f8bda3c278c74fffb
+run_id: 5f57d2c65d424a7f9790d34377fb5b00
+utc_time_created: '2023-12-14 10:10:50.547070'

@@ -1,0 +1,1 @@
+classifier__activation: relu, classifier__alpha: 0.0001, classifier__hidden_layer_sizes: (200, 50, 30), classifier__learning_rate: constant, classifier__solver: adam, combined_features__rfe__n_features_to_select: 5, combined_features__skb__k: 7

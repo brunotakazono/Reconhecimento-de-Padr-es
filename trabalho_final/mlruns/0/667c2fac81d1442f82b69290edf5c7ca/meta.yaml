@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/667c2fac81d1442f82b69290edf5c7ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 667c2fac81d1442f82b69290edf5c7ca
+run_name: Run Logistic Regression for random state 5
+run_uuid: 667c2fac81d1442f82b69290edf5c7ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702558740625
+status: 1
+tags: []
+user_id: bruno
